@@ -1,4 +1,4 @@
-package com.adsoft.springboot.ADSOFT_BACKEND;
+package com.adsoft.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
